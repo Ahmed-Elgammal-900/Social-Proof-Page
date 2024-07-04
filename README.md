@@ -4,7 +4,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-  - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Author](#author)
@@ -15,8 +14,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-social-proof-section-DJ6pUk_HBO)
-- Live Site URL: []()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-social-proof-section-DJ6pUk_HBO)
+- Live Site URL: [Live Site](https://ahmed-elgammal-900.github.io/Social-Proof-Page/)
 
 ## Author
 
